@@ -5,7 +5,7 @@
 tudo começou quando joguei video game pela primeira vez.
 
 👨‍💻Estou trabalhando na área desde 2015, 
-mas comecei a trabalhar com desenvolvimento de software em abril deste ano.
+mas comecei a trabalhar com desenvolvimento de software (backend) em abril deste ano.
 
 👨‍🎓Sou estudante de Análise e Desenvolvimento de Sistemas pela PUCPR;
 E me formei em Administração em 2018.
